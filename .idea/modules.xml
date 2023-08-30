@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/freyja.iml" filepath="$PROJECT_DIR$/.idea/modules/freyja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/freyja-build.iml" filepath="$PROJECT_DIR$/.idea/modules/freyja-build.iml" />
+    </modules>
+  </component>
+</project>
